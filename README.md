@@ -29,7 +29,7 @@ He runs im ```cmd``` or ```terminal```:
 
 
 
-Here contributor gets ```d:\cs4_filtered.txt``` as the output file, filtered for duplications and whitelisted records, with trails ready to get added to target static Maltrail base (e.g.```/cobaltstrile.txt```).
+Here contributor gets ```d:\cs4_filtered.txt``` as the output file, filtered for duplications and whitelisted records, with trails ready to get added to target static Maltrail base (e.g.```/cobaltstrike.txt```).
 
 ## License
 
