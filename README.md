@@ -23,7 +23,7 @@ Auxiliary tool for trails deduplication. Can be useful for Maltrail's contributo
 
 Contributor has an input list, with trails he wants to add to Maltrail's static ```/cobaltstrike.txt``` base.
 
-He runs im ```cmd``` or ```terminal```:
+He runs in ```cmd``` or ```terminal```:
 
 ```duplicate_cleaner.py -i d:\cs4.txt -s c:\maltrail-master\maltrail-master\trails\static\ -w c:\maltrail-master\maltrail-master\misc\whitelist.txt -o d:\cs4_filtered.txt```
 
