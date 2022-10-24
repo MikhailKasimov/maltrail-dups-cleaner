@@ -19,9 +19,9 @@ Auxiliary tool for trails deduplication. Can be useful for Maltrail's contributo
 ![image](https://user-images.githubusercontent.com/7167300/196686259-9f994452-077e-42fd-917f-ea453016495c.png)
 
 
-## Examples of usage
+## Example of usage
 
-Contributor has an input list, with trails he want to add to Maltrail's static ```/cobaltstrile.txt``` base.
+Contributor has an input list, with trails he wants to add to Maltrail's static ```/cobaltstrile.txt``` base.
 
 He runs im ```cmd``` or ```terminal```:
 
