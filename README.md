@@ -1,3 +1,5 @@
+[![Python 3.x](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/)
+
 ## maltrail-dups-cleaner
 
 Auxiliary tool for trails deduplication. Can be useful for Maltrail's contributors to avoid adding trails (IP:port/domains/other type of trails), if they are already contained in static Maltrail bases.
